@@ -1,5 +1,5 @@
 body {
-  font: Helvetica;
+  font-family: Helvetica;
 }
 h1{
   color: #375e97;
@@ -22,6 +22,7 @@ ul{
   border-width: 5px;
   border: solid;
   border-color: purple;
+  padding-right: 5px;
 }
 a:link
 {
