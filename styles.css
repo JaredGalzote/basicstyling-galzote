@@ -23,3 +23,6 @@ ul{
   border: solid;
   border-color: purple;
 }
+a:hover {
+  text-decoration: none
+}
