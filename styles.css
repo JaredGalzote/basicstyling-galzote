@@ -23,6 +23,13 @@ ul{
   border: solid;
   border-color: purple;
 }
+a:link
+{
+  color:  #82b8de;
+}
+a:visited{
+  color: #2b99e6;
+}
 a:hover {
   text-decoration: none
 }
