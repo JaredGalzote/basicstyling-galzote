@@ -9,7 +9,7 @@ h1{
   border-width: 5px;
   border-color: #375e97;
 }
-p{
+.special{
   color: #999999;
   font-weight: bold;
 }
